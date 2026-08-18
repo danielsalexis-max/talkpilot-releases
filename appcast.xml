@@ -3,6 +3,21 @@
     <channel>
         <title>TalkPilot</title>
         <item>
+            <title>3.10.1</title>
+            <pubDate>Tue, 18 Aug 2026 08:54:49 -0600</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>3.10.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.10.1/TalkPilot_Universal_Installer.dmg" length="20097629" type="application/octet-stream" sparkle:edSignature="OxVj8ldiFjs3G9VpTrA+XMfTvjPnEaZpIIREP3G9bn3WFOTMlRr8ZEIj6RP5qNLwE0kSUyqt8xh3ynTusqrBBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.10.1/TalkPilot30-20.delta" sparkle:deltaFrom="20" length="5183078" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="prj1KeS9wft10ZaO4pZg+dz1m356W9eQMCx2Z0GkKtMydwEVnFgcKAe3LKvT1L+MDqVrL5FxOgGlikQkJMM8Bw=="/>
+                <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.10.1/TalkPilot30-16.delta" sparkle:deltaFrom="16" length="5174166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mUzmgqufnoNbDwLdN75uf8i8ngr7chkM0ttd9Mc/iQx48bEg8sIuaWyMvtlSsabrcZzBgbYYdSki32dweLq9Dw=="/>
+                <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.10.1/TalkPilot30-15.delta" sparkle:deltaFrom="15" length="5173158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lA3JGg60bF40051xyw3vDEMWr4Cro25J2pvPvQGg4IqNFE+jH+9ijDhz//IqFJ95jM1iGCgp74PcwvAjNxUzBg=="/>
+                <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.10.1/TalkPilot30-14.delta" sparkle:deltaFrom="14" length="5541910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EpwwcP/wCGLYuDRN+vTiICv4TbJWQZvIAatJ6wrh9qRAkKhPwCBM5W2BvrYpJqdO1ECLnFIz7FDmlH8uKboqBw=="/>
+                <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.10.1/TalkPilot30-13.delta" sparkle:deltaFrom="13" length="5592578" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xyBfI4zxaUPeya3YK6uzRbdmXeudiY5bezggZ521NTM6/81UCQWY2utw/ES/SPHeos/050cwKvy2A5Sga1tzCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>3.10.0</title>
             <pubDate>Tue, 18 Aug 2026 07:15:53 -0600</pubDate>
             <sparkle:version>29</sparkle:version>
@@ -30,21 +45,6 @@
                 <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.9.1/TalkPilot27-15.delta" sparkle:deltaFrom="15" length="4910530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AfMXyiyqRjPNETxTNjst1JOnDMATyncy4gBfy1oqvsYznyQxWT0YP5Vq4v5E88dhWOPF1t3ngdFlMsc/B4TkAg=="/>
                 <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.9.1/TalkPilot27-14.delta" sparkle:deltaFrom="14" length="5264306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KCP2BZ20+N1Xkxj2ZZ14Cfo3eUcQfHocpECATdpI9jiebRTUoNArKrOKCgP9waJr2RICpVd5QMFerOgKW2bvAg=="/>
                 <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.9.1/TalkPilot27-13.delta" sparkle:deltaFrom="13" length="5262382" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ITy1aCA+hul01kamfM/zfCzVtn0WAk1lELPA1eY+ltGNXEuv2C0TOwNQRDVWCD4TTgduQC+fqGc9lPryDkrOAQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>3.9.0</title>
-            <pubDate>Mon, 10 Aug 2026 18:19:54 +0200</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>3.9.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.9.0/TalkPilot_Universal_Installer.dmg" length="19614134" type="application/octet-stream" sparkle:edSignature="6DxDJsx8OrSJv/lkxpBJmFET5rR6LFQzHD4LxH0U9+I3i8jDjWtjShIHRiRmHHlsqCIXbfVifK0k0T7cbhVEDg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.9.0/TalkPilot26-20.delta" sparkle:deltaFrom="20" length="4836326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="taeuKJDyRHo+Fe67c/5GLS5yNIz8zthCLblqwNBJlzHSZtcyxWoax9UpR3sxHB1BzHDjooSWIMUzlWDQhgtEDA=="/>
-                <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.9.0/TalkPilot26-16.delta" sparkle:deltaFrom="16" length="4876986" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="j1zLjWIp8ULTS11Q/RZbhWGR8XliWmyks5oeTFEW9aD2oW2OdRfX8Pv5kY5SjlZu/9+evDxBqNKW77sM+r9FBw=="/>
-                <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.9.0/TalkPilot26-15.delta" sparkle:deltaFrom="15" length="4874454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pOFMc2zqesFspzklG5COvWfLKb0u4QI2IOFXEw6MSoe3YITrzF9jN9wHVA7cMQGJELRHTqGUyrMzAthsernZBA=="/>
-                <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.9.0/TalkPilot26-14.delta" sparkle:deltaFrom="14" length="5270482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lAE7TC4Cnq5VkPo2D9ZleLgLYcJrw3dibqwsmBVVzeOgbU85c53quBF2sGZSSAu7ep+A5YVpZkfiDfdS4sqLBg=="/>
-                <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.9.0/TalkPilot26-13.delta" sparkle:deltaFrom="13" length="5292290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Yv3dUGY9ncFpCB7F9cjeur6drVGFmQedBjRhXemJS9DEEVxKGG4RvO8VcLq6r6wY6IfiLWfim2wN3mADC7InDA=="/>
             </sparkle:deltas>
         </item>
     </channel>
