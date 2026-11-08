@@ -3,6 +3,14 @@
     <channel>
         <title>TalkPilot</title>
         <item>
+            <title>3.23.1</title>
+            <pubDate>Sat, 07 Nov 2026 17:42:10 -0800</pubDate>
+            <sparkle:version>67</sparkle:version>
+            <sparkle:shortVersionString>3.23.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.23.1/TalkPilot_Universal_Installer.dmg" length="40094786" type="application/octet-stream" sparkle:edSignature="OzO46KU2BVRy4R+uEYGX1X1ZdlJtQz6FJu72HaCt6GvNM9KLKzaz4L5lnjqqIVc+y7OuNrYLylnpRGmgIvVeCQ=="/>
+        </item>
+        <item>
             <title>3.23.0</title>
             <pubDate>Thu, 05 Nov 2026 20:31:33 -0800</pubDate>
             <sparkle:version>66</sparkle:version>
