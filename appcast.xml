@@ -3,12 +3,20 @@
     <channel>
         <title>TalkPilot</title>
         <item>
+            <title>3.24.0</title>
+            <pubDate>Thu, 12 Nov 2026 10:45:37 -0800</pubDate>
+            <sparkle:version>68</sparkle:version>
+            <sparkle:shortVersionString>3.24.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.24.0/TalkPilot_Universal_Installer.dmg" length="40966322" type="application/octet-stream" sparkle:edSignature="pl2NkAvVGvsoUo4jN9QdfeoeG9fkZTiMZTtzyTiJRWBfRylE6T9oKkIXEsytI+0CK9mJTOcDEII5HjXuXZGWBA=="/>
+        </item>
+        <item>
             <title>3.23.1</title>
             <pubDate>Sat, 07 Nov 2026 17:42:10 -0800</pubDate>
             <sparkle:version>67</sparkle:version>
             <sparkle:shortVersionString>3.23.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.23.1/TalkPilot_Universal_Installer.dmg" length="40094786" type="application/octet-stream" sparkle:edSignature="OzO46KU2BVRy4R+uEYGX1X1ZdlJtQz6FJu72HaCt6GvNM9KLKzaz4L5lnjqqIVc+y7OuNrYLylnpRGmgIvVeCQ=="/>
+            <enclosure url="https://danielsalexis-max.github.io/talkpilot-releases/TalkPilot_3.23.1_final.dmg" length="40094786" type="application/octet-stream" sparkle:edSignature="OzO46KU2BVRy4R+uEYGX1X1ZdlJtQz6FJu72HaCt6GvNM9KLKzaz4L5lnjqqIVc+y7OuNrYLylnpRGmgIvVeCQ=="/>
         </item>
         <item>
             <title>3.23.0</title>
@@ -16,7 +24,7 @@
             <sparkle:version>66</sparkle:version>
             <sparkle:shortVersionString>3.23.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.23.0/TalkPilot_Universal_Installer.dmg" length="40094847" type="application/octet-stream" sparkle:edSignature="n1ROCiBynUhXzDmiRYSt+8i/NSiyMkHck2bzM4amEqNMyOG2PBrVTicIGyJ+yjvSVJnozWhBoAooAq+YdVlmBQ=="/>
+            <enclosure url="https://danielsalexis-max.github.io/talkpilot-releases/TalkPilot_3.23.0_final.dmg" length="40094847" type="application/octet-stream" sparkle:edSignature="n1ROCiBynUhXzDmiRYSt+8i/NSiyMkHck2bzM4amEqNMyOG2PBrVTicIGyJ+yjvSVJnozWhBoAooAq+YdVlmBQ=="/>
         </item>
         <item>
             <title>3.22.0</title>
@@ -24,7 +32,7 @@
             <sparkle:version>65</sparkle:version>
             <sparkle:shortVersionString>3.22.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.22.0/TalkPilot_Universal_Installer.dmg" length="38279380" type="application/octet-stream" sparkle:edSignature="YEFeCsGL4pcZwgwSH6gsJql92zNi8AqelCxDTnoDznNdQUzyRa0idKnucethuP/GpXrRUOqudVCwyPw2vZqDAg=="/>
+            <enclosure url="https://danielsalexis-max.github.io/talkpilot-releases/TalkPilot_3.22.0_final.dmg" length="38279380" type="application/octet-stream" sparkle:edSignature="YEFeCsGL4pcZwgwSH6gsJql92zNi8AqelCxDTnoDznNdQUzyRa0idKnucethuP/GpXrRUOqudVCwyPw2vZqDAg=="/>
         </item>
         <item>
             <title>3.21.0</title>
@@ -32,159 +40,7 @@
             <sparkle:version>64</sparkle:version>
             <sparkle:shortVersionString>3.21.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.21.0/TalkPilot_Universal_Installer.dmg" length="38273264" type="application/octet-stream" sparkle:edSignature="DaoJgKADA+A65V1cl2wRroE2QFoLBMKkonuFQMJgHfFNMpKUbZNShZJCtXdMUXuMtmIKmAjLngnuUvJa4S/uDA=="/>
-        </item>
-        <item>
-            <title>3.20.0</title>
-            <pubDate>Mon, 19 Oct 2026 23:16:21 -0600</pubDate>
-            <sparkle:version>63</sparkle:version>
-            <sparkle:shortVersionString>3.20.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.20.0/TalkPilot_Universal_Installer.dmg" length="37309150" type="application/octet-stream" sparkle:edSignature="H/svl/YVablu//Y7roJST7U328V/MgtkyBPCvnHMH+CoEqzOn8r8vTy1l5fUnsqvjCltoK4Tq4uB5Ma5/rnoAA=="/>
-        </item>
-        <item>
-            <title>3.19.0</title>
-            <pubDate>Mon, 13 Oct 2026 16:53:00 -0600</pubDate>
-            <sparkle:version>62</sparkle:version>
-            <sparkle:shortVersionString>3.19.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.19.0/TalkPilot_Universal_Installer.dmg" length="36968250" type="application/octet-stream" sparkle:edSignature="8KvLN+Kn4V1i/7lmrCs1e/uPBvCO4ZcnpcaERvq1WY3L3lAKELdu81IanBOP0cEzW85uZ+WaD3cmiX7Tz9tVCw=="/>
-        </item>
-        <item>
-            <title>3.18.0</title>
-            <pubDate>Mon, 12 Oct 2026 22:49:02 -0600</pubDate>
-            <sparkle:version>61</sparkle:version>
-            <sparkle:shortVersionString>3.18.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.18.0/TalkPilot_Universal_Installer.dmg" length="36838373" type="application/octet-stream" sparkle:edSignature="YbWdxeVrmS+RFeETkaECuOo6g4Fc2gpFJzHqm1U1wqov7RnYdt8nCYvkvp0ICu8m47XIFGjQe97bfLavv2e5DQ=="/>
-        </item>
-        <item>
-            <title>3.17.2</title>
-            <pubDate>Fri, 09 Oct 2026 09:40:27 -0600</pubDate>
-            <sparkle:version>60</sparkle:version>
-            <sparkle:shortVersionString>3.17.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.17.2/TalkPilot_Universal_Installer.dmg" length="36037117" type="application/octet-stream" sparkle:edSignature="gCLn8r/lUUY+OUjQBCHkRZxlMFPrx4z3Lw6VVw9Qasi5yZ4ciZNo8NoKiVmsnlpnJJwS+u9cNoQScfvrtRLwCQ=="/>
-        </item>
-        <item>
-            <title>3.17.1</title>
-            <pubDate>Thu, 08 Oct 2026 16:28:08 -0600</pubDate>
-            <sparkle:version>59</sparkle:version>
-            <sparkle:shortVersionString>3.17.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.17.1/TalkPilot_Universal_Installer.dmg" length="36089479" type="application/octet-stream" sparkle:edSignature="FPHMmwiTcAEPKUK0ePjmpy/heXHSogevwpYGr2XD/ry4+hd7SdPnc4XmZM6DzsXAFBHIBXIA+TWvoHKOtI5qDg=="/>
-        </item>
-        <item>
-            <title>3.17.0</title>
-            <pubDate>Thu, 08 Oct 2026 13:09:12 -0600</pubDate>
-            <sparkle:version>58</sparkle:version>
-            <sparkle:shortVersionString>3.17.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.17.0/TalkPilot_Universal_Installer.dmg" length="36042777" type="application/octet-stream" sparkle:edSignature="Ad7QDRc/lF7AfIsMic6rgO4IeoWijawueNWVRQwm9jzOK+4YIyFkNOC62qO/86mt9ljy9vbch62VDvv4fZK/Bw=="/>
-        </item>
-        <item>
-            <title>3.16.1</title>
-            <pubDate>Sat, 03 Oct 2026 19:07:01 -0600</pubDate>
-            <sparkle:version>57</sparkle:version>
-            <sparkle:shortVersionString>3.16.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.16.1/TalkPilot_Universal_Installer.dmg" length="31550054" type="application/octet-stream" sparkle:edSignature="Cf5MpqT/D7h8ZQvNK6czqvwgGD1iOAhNuOuP14rtFFlcOkMCbsm43O/CE4m0yt8bW2+LRejwgQP3MnqsXR1/Dw=="/>
-        </item>
-        <item>
-            <title>3.16.0</title>
-            <pubDate>Thu, 01 Oct 2026 20:08:07 -0600</pubDate>
-            <sparkle:version>56</sparkle:version>
-            <sparkle:shortVersionString>3.16.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.16.0/TalkPilot_Universal_Installer.dmg" length="31483133" type="application/octet-stream" sparkle:edSignature="gS4+0oaG/UEyNKtMFfNIUfMxFTtS2dpiJhgLjWlE4xIZPSpf1f/PHD52tXlSKO71ZoszPfkIo6DOgm1wystwAw=="/>
-        </item>
-        <item>
-            <title>3.15.4</title>
-            <pubDate>Thu, 01 Oct 2026 16:04:58 -0600</pubDate>
-            <sparkle:version>55</sparkle:version>
-            <sparkle:shortVersionString>3.15.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.15.4/TalkPilot_Universal_Installer.dmg" length="31077522" type="application/octet-stream" sparkle:edSignature="7bqvS8/+gaKiyRA26u++tK9R2CoGmwh4wxzVfl89IoTxSGtBBF/2q+5e7Anm0d6xi+hd9ngv7FbAyd9udm2DDQ=="/>
-        </item>
-        <item>
-            <title>3.15.3</title>
-            <pubDate>Thu, 01 Oct 2026 14:43:25 -0600</pubDate>
-            <sparkle:version>54</sparkle:version>
-            <sparkle:shortVersionString>3.15.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.15.3/TalkPilot_Universal_Installer.dmg" length="31056057" type="application/octet-stream" sparkle:edSignature="tLehLOzQvkMbe5lzE+/CzUk+WFsbSGuw8yvnzCQlgV0khLWJUjCPrZEiJu89AQlqaFB1y4I39BLJtOeHmEUCCA=="/>
-        </item>
-        <item>
-            <title>3.15.2</title>
-            <pubDate>Thu, 01 Oct 2026 13:54:55 -0600</pubDate>
-            <sparkle:version>53</sparkle:version>
-            <sparkle:shortVersionString>3.15.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.15.2/TalkPilot_Universal_Installer.dmg" length="31056656" type="application/octet-stream" sparkle:edSignature="040qqJZ1CyZCNsu0L3kY31GUZnRmgNESRM17mXlhn1kdh60kmYq6UExeq3xwN6tvpKhJGb4DhGFniUQMiM1EDg=="/>
-        </item>
-        <item>
-            <title>3.15.1</title>
-            <pubDate>Thu, 01 Oct 2026 13:33:32 -0600</pubDate>
-            <sparkle:version>52</sparkle:version>
-            <sparkle:shortVersionString>3.15.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.15.1/TalkPilot_Universal_Installer.dmg" length="31055543" type="application/octet-stream" sparkle:edSignature="AWQ2/wTA7JL6mcrd0r0q98WJ64Ugj+175/GhgCBEkdKqgshexwvM3jzeQySp4VA4lpHNnIfrb+Al9jv3o3U3Aw=="/>
-        </item>
-        <item>
-            <title>3.15.0</title>
-            <pubDate>Wed, 30 Sep 2026 17:24:09 -0600</pubDate>
-            <sparkle:version>51</sparkle:version>
-            <sparkle:shortVersionString>3.15.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.15.0/TalkPilot_Universal_Installer.dmg" length="31055934" type="application/octet-stream" sparkle:edSignature="/W/lCZmSE/hkbIjLTW3fqV6/PeE5jJS9AjopqAfRydL7ZKF005xwWGU75LwK1hxiBdIY3m1HoveLrRGz7H4CBA=="/>
-        </item>
-        <item>
-            <title>3.14.0</title>
-            <pubDate>Tue, 29 Sep 2026 22:12:53 -0600</pubDate>
-            <sparkle:version>50</sparkle:version>
-            <sparkle:shortVersionString>3.14.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.14.0/TalkPilot_Universal_Installer.dmg" length="31037200" type="application/octet-stream" sparkle:edSignature="cykqHlC7nEiql8yi9eUcS22R0PCAj72UfKZ6r2dIh6bn9QjZjUNpW3+hYdCYVNDFN/vmz6ZfydRGTh3gNtcoDw=="/>
-        </item>
-        <item>
-            <title>3.13.0</title>
-            <pubDate>Thu, 17 Sep 2026 18:48:21 -0600</pubDate>
-            <sparkle:version>49</sparkle:version>
-            <sparkle:shortVersionString>3.13.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.13.0/TalkPilot_Universal_Installer.dmg" length="29030884" type="application/octet-stream" sparkle:edSignature="WBdiCxcm2CP9jGeQTWyuRQ8ogAu61htX0IYMHL6whm8PRzeQCZOzgxD5iu+nX1GHmdbwp6wPOOOOvDHlhwGsDA=="/>
-        </item>
-        <item>
-            <title>3.12.1</title>
-            <pubDate>Wed, 09 Sep 2026 14:14:08 -0600</pubDate>
-            <sparkle:version>48</sparkle:version>
-            <sparkle:shortVersionString>3.12.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.12.1/TalkPilot_Universal_Installer.dmg" length="26517052" type="application/octet-stream" sparkle:edSignature="aWeOJgFRmvgMxZ3EKRUr32OLt6QzgcjCCus1VCKTo5TUlwwF7xvEnGCPn+W+6uk1Uwp4UyLFkj878ffbU/WqCQ=="/>
-        </item>
-        <item>
-            <title>3.12.0</title>
-            <pubDate>Sun, 06 Sep 2026 23:27:25 -0600</pubDate>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>3.12.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danielsalexis-max/talkpilot-releases/releases/download/v3.12.0/TalkPilot_Universal_Installer.dmg" length="26189080" type="application/octet-stream" sparkle:edSignature="awdptYOGwl7pQeMe/URlOURi+oXHru8PCf9amDett1CH16x/Fu2QV3Ihs8vAZ264d3/5fg7D1wvLSXnS19ZIDQ=="/>
-        </item>
-        <item>
-            <title>3.11.6</title>
-            <pubDate>Fri, 28 Aug 2026 19:34:55 -0600</pubDate>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>3.11.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://danielsalexis-max.github.io/talkpilot-releases/TalkPilot_3.11.6_final.dmg" length="21009663" type="application/octet-stream" sparkle:edSignature="3HlT2e+3kkfKbsq0hpmy/SNVjxYySvpPDdaMBbWQlrm6Cf1aSapEYI+TpjHRzDIyQ3iwHRj0wYdDoSHsEtjhAg=="/>
-        </item>
-        <item>
-            <title>3.11.5</title>
-            <pubDate>Thu, 27 Aug 2026 17:31:59 -0600</pubDate>
-            <sparkle:version>36</sparkle:version>
-            <sparkle:shortVersionString>3.11.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://danielsalexis-max.github.io/talkpilot-releases/TalkPilot_3.11.5_final.dmg" length="20912166" type="application/octet-stream" sparkle:edSignature="bQmOCf4HPxXixr8dOIHP+3vZVkUW/jQNHX/YeR280jDZYt6oCILhGWBAeXkSAe8hXhV7jSnQ5tgSgz0+K2MxBw=="/>
+            <enclosure url="https://danielsalexis-max.github.io/talkpilot-releases/TalkPilot_3.21.0_final.dmg" length="38273264" type="application/octet-stream" sparkle:edSignature="DaoJgKADA+A65V1cl2wRroE2QFoLBMKkonuFQMJgHfFNMpKUbZNShZJCtXdMUXuMtmIKmAjLngnuUvJa4S/uDA=="/>
         </item>
     </channel>
 </rss>
